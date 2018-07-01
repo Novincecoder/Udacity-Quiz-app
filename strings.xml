@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+
+    <string name="welcome">Hey there Coder, Welcome to Udacity Quiz app, Powered by Udacity, Now let\'s get started.</string>
+
+    <!-- Introduction note to the Quiz -->
+    <string name="intro_note">The Quiz spans on 3 Aspects of African History: Sports, Geography and Economics</string>
+    <string name="intro_note2">Part 1: Sports</string>
+
+    <!-- Questions for Part 1 of the Quiz-->
+    <string name="part1_question1">Who is the African Player with Highest Goals Scored in the English Premiere League ?</string>
+    <string name="part1_question1_choice1">Emmanuel Adebayor</string>
+    <string name="part1_question1_choice2">Didier Drogba</string>
+    <string name="part1_question1_choice3">Mohammed Salah</string>
+    <string name="part1_question1_choice4">Sadio Mane</string>
+
+    <string name="part1_question2">Who is the African Player with Highest Uefa Champions League Titles ?</string>
+    <string name="part1_question2_choice1">Samuel Eto\'o</string>
+    <string name="part1_question2_choice2">Didier Drogba</string>
+    <string name="part1_question2_choice3">Yaya Toure</string>
+    <string name="part1_question2_choice4">Seydou Keita</string>
+
+    <string name="part1_question3">Which African Team is Highest Winner of the Afcon Competition ?</string>
+    <string name="part1_question3_choice1">Egypt</string>
+    <string name="part1_question3_choice2">Ghana</string>
+    <string name="part1_question3_choice3">Nigeria</string>
+    <string name="part1_question3_choice4">Cameroon</string>
+
+    <string name="part1_question4">Who is the highest Top scoring African player in the Uefa champions league ?</string>
+    <string name="part1_question4_choice1">Samuel Eto\'o</string>
+    <string name="part1_question4_choice2">Didier Drogba</string>
+    <string name="part1_question4_choice3">Mohammed Salah</string>
+    <string name="part1_question4_choice4">George Weah</string>
+
+    <!-- Questions for Part 2 of the Quiz -->
+    <string name="intro_note3">Part 2: History And Geography </string>
+    <string name="part2_question1">Identify Correctly the three African Countries that Gained Independence in the Year 1960</string>
+    <string name="part2_question1_choice1">Nigeria</string>
+    <string name="part2_question1_choice2">Morocco</string>
+    <string name="part2_question1_choice3">Mauritania</string>
+    <string name="part2_question1_choice4">Egypt</string>
+    <string name="part2_question1_choice5">Senegal</string>
+
+    <string name="part2_question2">Bonus: What is the Capital City of Ghana ?</string>
+
+    <string name="part2_question3">Bonus: What is the Capital City of Kenya ?</string>
+
+    <!--Questions for part 3 of the quiz -->
+    <string name="intro_note4">Part 3: Economics </string>
+    <string name="part3_question1">What is the Name of the Currency used in Angola ?</string>
+
+    <string name="part3_question1_choice1">Dinar</string>
+    <string name="part3_question1_choice2">Kwanza</string>
+    <string name="part3_question1_choice3">Angolan Dollar</string>
+    <string name="part3_question1_choice4">Shilling</string>
+
+    <string name="part3_question2">A major trading town in Africa Savanna was ?</string>
+
+    <string name="part3_question2_choice1">Timbuktu</string>
+    <string name="part3_question2_choice2">Cairo</string>
+    <string name="part3_question2_choice3">Accrar</string>
+    <string name="part3_question2_choice4">Lagos</string>
+
+    <string name="part3_question3">Which African Country has the highest Coffee Production and Consumption ?</string>
+
+    <string name="part3_question3_choice1">South Africa</string>
+    <string name="part3_question3_choice2">Algeria</string>
+    <string name="part3_question3_choice3">Ethopia</string>
+    <string name="part3_question3_choice4">Egypt</string>
+
+    <string name="submit_answers">Submit</string>
+</resources>
